@@ -3,5 +3,6 @@ I'm Modulo From Nigeria, My interests are in Front End Engineering, I love to cr
 
 ![modulo GitHub stats](https://github-readme-stats.vercel.app/api?username=moduloscript&theme=synthwave_icons=true)
 
-![moduloscript (1) (1)](https://user-images.githubusercontent.com/37522337/191387007-28a2460c-1e69-46ea-a5ca-278fd0a7c4d3.svg)
-
+<p align="center">
+<img align="left" src="https://user-images.githubusercontent.com/37522337/191387007-28a2460c-1e69-46ea-a5ca-278fd0a7c4d3.svg">
+</p>
