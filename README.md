@@ -2,9 +2,9 @@
 
 ### Hi there 👋
 I'm Modulo From Nigeria, My interests are in Front End Engineering, I love to create beautiful and performant products with delightful user experiences For The Web and Mobile Performant Plattforms. implementing visual and interactive elements for Web are essentially my 'Forte'.
---
+---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=moduloscript&theme=auraicons=true">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=moduloscript&theme=blueberry&show_icons=true">
 
 
 
